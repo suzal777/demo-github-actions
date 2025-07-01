@@ -2,4 +2,5 @@ test file
 test file again
 test file again 2
 again
-added again
+added again but changed
+last test
