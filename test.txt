@@ -3,3 +3,4 @@ test file again
 test file again 2
 again
 added again
+last test
